@@ -1,3 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusroerig&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusroerig&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/mateusroerig">
+    <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=mateusroerig&show_icons=true&theme=onedark" />
+    <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusroerig&show_icons=true&theme=onedark&layout=compact" />
+  </a>
+</div>
